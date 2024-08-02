@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Satvik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="codding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0n_R-LK8-XRXrLnyueMuUP&ust=1722721899375000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODPwLml14cDFQAAAAAdAAAAABAZ">
+<img align="right" alt="codding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmo3cTZiOWl2MmU4cXVjeTdnYTQ1N2JjY2QzZGx0NjltMHo0aTl0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikassat01&label=Profile%20views&color=0e75b6&style=flat" alt="vikassat01" /> </p>
 
