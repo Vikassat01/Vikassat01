@@ -1,4 +1,4 @@
-![logo]([vikas.png](https://github.com/Vikassat01/Vikas_Satvik/blob/main/vikas.png.jfif))
+![logo](https://github.com/Vikassat01/Vikassat01/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vikas Satvik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
