@@ -1,6 +1,6 @@
 ![logo](https://github.com/Vikassat01/Vikassat01/blob/main/vikas.png.png)
 <h1 align="center">Hi 👋, I'm Vikas Satvik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="codding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmo3cTZiOWl2MmU4cXVjeTdnYTQ1N2JjY2QzZGx0NjltMHo0aTl0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp">
 
