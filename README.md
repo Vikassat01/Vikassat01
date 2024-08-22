@@ -1,7 +1,7 @@
 ![logo](https://github.com/Vikassat01/Vikassat01/blob/main/vikas.png.png)
 <h1 align="center">Hi 👋, I'm Vikas Satvik</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Rj08TteAOHGiDNnNjo/giphy.gif?cid=ecf05e47kefa4s4figoa7lv1keo92b94rie1z864yom5f35a&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikassat01&label=Profile%20views&color=0e75b6&style=flat" alt="vikassat01" /> </p>
 
 - 🔭 I’m currently working on [ONDC_project](https://github.com/Vikassat01/ONDC_project-Roadmap)
